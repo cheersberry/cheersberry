@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheersberry&count_private=true&show_icons=true)](https://github.com/cheersberry)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheersberry&layout=compact&langs_count=10&exclude_repo=berry-dev.github.io,QingTingCheat,lantern,you-get,pydata-book,IPProxyPool,git-indicator,blog,DerekMinecraftWorld)](https://github.com/cheersberry?tab=repositories)
